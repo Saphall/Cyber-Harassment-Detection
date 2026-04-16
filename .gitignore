@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Logs
+*.log
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# ML models & large files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Datasets (customize as needed)
+data/
+datasets/
+*.csv
+*.tsv
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Docker (optional)
+*.pid
+*.seed
