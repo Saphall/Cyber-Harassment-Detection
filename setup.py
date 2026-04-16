@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        "nltk==3.9.4",
+        "nltk==3.9.2",
         "flask==3.1.3",
         "emoji==2.15.0",
         "scipy==1.11.4",
